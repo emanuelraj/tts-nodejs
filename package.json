@@ -32,12 +32,20 @@
   },
   "homepage": "https://github.com/emanuelraj/tts-nodejs#readme",
   "dependencies": {
+    "async": "^2.6.1",
     "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
     "chai": "^4.1.2",
     "chai-http": "^4.0.0",
+    "compression": "^1.7.2",
+    "cors": "^2.8.4",
+    "errorhandler": "^1.5.0",
     "express": "^4.16.3",
     "jsonwebtoken": "^8.3.0",
+    "lodash": "^4.17.10",
+    "minimist": "^1.2.0",
     "mongoose": "^5.1.7",
-    "morgan": "^1.9.0"
+    "morgan": "^1.9.0",
+    "path": "^0.12.7"
   }
 }
