@@ -12,8 +12,8 @@ module.exports = {
 
     mailer:{
         auth:{
-            user: 'allenraj1888@gmail.com',
-            pass: 'shirley1988'
+            user: 'ttsprodeveloper@gmail.com',
+            pass: 'tts@1234'
         }
     }
 }
