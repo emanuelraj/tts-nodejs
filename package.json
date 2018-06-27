@@ -1,0 +1,34 @@
+{
+  "name": "tts-nodejs",
+  "version": "1.0.0",
+  "description": "Ticket Tracking System Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuelraj/tts-nodejs.git"
+  },
+  "keywords": [
+    "Ticket",
+    "Tracking",
+    "System",
+    "Nodejs",
+    "Mongoose",
+    "TDD",
+    "Chai",
+    "JWT",
+    "SASS",
+    "Project",
+    "Tracking",
+    "Project",
+    "Chat"
+  ],
+  "author": "Allen Emanuel Raj D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuelraj/tts-nodejs/issues"
+  },
+  "homepage": "https://github.com/emanuelraj/tts-nodejs#readme"
+}
