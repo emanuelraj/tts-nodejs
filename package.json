@@ -30,5 +30,14 @@
   "bugs": {
     "url": "https://github.com/emanuelraj/tts-nodejs/issues"
   },
-  "homepage": "https://github.com/emanuelraj/tts-nodejs#readme"
+  "homepage": "https://github.com/emanuelraj/tts-nodejs#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chai": "^4.1.2",
+    "chai-http": "^4.0.0",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.1.7",
+    "morgan": "^1.9.0"
+  }
 }
