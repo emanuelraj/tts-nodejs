@@ -12,7 +12,7 @@ const UsersSchema = new Schema({
     },
     gender:{
         type: String,
-        enum: ['Male', 'Female', 'Shemale']
+        enum: ['male', 'female', 'other']
     },
     user_id: {
         type: String,

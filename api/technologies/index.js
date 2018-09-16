@@ -7,5 +7,7 @@ const Utils = require('../../utils/common');
 
 
 router.post('/', technologyValidator.create, Utils.validateResult, controller.create);
+router.get('/', controller.index);
+
 
 module.exports = router;

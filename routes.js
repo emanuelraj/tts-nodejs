@@ -5,8 +5,6 @@
 'use strict';
 
 var path = require('path');
-const dbConnection = require('./utils/dbConnection');
-
 
 module.exports = function(app) {
 

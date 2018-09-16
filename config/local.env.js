@@ -3,7 +3,8 @@
 module.exports = {
 
     secrets: {
-        session: "tts-secure"
+        session: "tts-secure",
+        expiresIn: 2629746000
     },
 
     db:{

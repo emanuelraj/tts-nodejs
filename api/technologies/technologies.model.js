@@ -28,7 +28,11 @@ const TechnologiesSchema = new Schema({
             type: Schema.Types.ObjectId,
             ref: 'Users'
         }
-    ]
+    ],
+    is_active:{
+        type: Boolean,
+        default: false
+    }
 }, {
     id: false,
     toObject: { virtuals: true, getters: true },
